@@ -1,0 +1,1 @@
+        // cout " " << to_string(i).find(k) << endl;
